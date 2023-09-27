@@ -1,0 +1,150 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "small",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": true,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "JagatPro Studio: Leading AI Solution Made Easy",
+      "image": "file:///android_asset/image/namaicon.jpg",
+      "description": "Among the standout players in the world of AI applications is JagatPro Studio",
+      "link": "<p>In the rapidly evolving realm of technology, artificial intelligence (AI) stands out as a transformative force that is reshaping industries and our everyday lives. With AI, businesses and individuals are finding innovative solutions to complex challenges. Among the standout players in the world of AI applications is JagatPro Studio.</p><p><strong>A Revolution in AI Accessibility</strong></p><p>JagatPro Studio has earned a reputation as a pioneering AI solution that is accessible to users of all backgrounds and levels of expertise. It serves as a shining example of how cutting-edge technology can be harnessed without requiring an in-depth understanding of AI algorithms.</p><p><strong>User-Friendly Interface</strong></p><p>One of the key features that distinguishes JagatPro Studio is its user-friendly interface. Whether you are an experienced AI professional or someone new to the world of AI, this application has been designed to be intuitive and easy to navigate. You do not need to be a technical expert to start leveraging AI for your needs.</p><p><strong>Unlocking the Power of AI</strong></p><p>With JagatPro Studio, users can unlock the full potential of AI without the steep learning curve often associated with advanced technologies. It offers a seamless experience, allowing you to harness AI for a wide range of tasks, from data analysis to natural language processing and image recognition.</p><p><strong>Security and Data Privacy</strong></p><p>In an era where data security and privacy are paramount concerns, JagatPro Studio leaves no stone unturned. It incorporates state-of-the-art security measures to ensure the safety and protection of user data. Your sensitive information remains shielded from unauthorized access, providing peace of mind as you explore the capabilities of AI.</p><p><strong>Speed and Efficiency</strong></p><p>Time is of the essence in today's fast-paced world, and JagatPro Studio recognizes that fact. It operates with remarkable speed and efficiency, enabling users to access information and insights rapidly. Whether you are using it for business analytics or research, JagatPro Studio helps you save time and achieve results more quickly.</p><p><strong>Conclusion</strong></p><p>In conclusion, JagatPro Studio represents a game-changing development in the world of AI applications. Its commitment to accessibility, user-friendliness, security, and efficiency make it a top choice for those seeking to harness the power of AI. Whether you are a business owner, a researcher, or simply curious about AI, this application simplifies the complex realm of artificial intelligence, making its benefits accessible to all. With JagatPro Studio, the future of AI is now within reach like never before.</p>"
+    },
+	{
+	  "id": 2,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Revolutionizing AI for All",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Discover how JagatPro Studio is changing the game in AI accessibility",
+	  "link": "<p>In today's fast-paced world, artificial intelligence (AI) has become a driving force behind innovation and progress. With AI, businesses and individuals are tackling complex problems in ways previously thought impossible. Among the leading contenders in the AI landscape is JagatPro Studio.</p><p><strong>AI Accessibility Redefined</strong></p><p>JagatPro Studio has emerged as a trailblazer in the field of AI accessibility. It opens the doors to AI for users from diverse backgrounds, regardless of their level of expertise. This application is proof that cutting-edge technology can be harnessed without the need for an in-depth understanding of AI algorithms.</p><p><strong>User-Centric Design</strong></p><p>One of the standout features of JagatPro Studio is its user-centric design. Whether you're a seasoned AI professional or someone taking their first steps into the world of AI, this application is designed to be intuitive and easy to navigate. You don't need to be a tech guru to leverage the power of AI.</p><p><strong>Unlocking AI's Potential</strong></p><p>With JagatPro Studio, users can unlock AI's full potential without grappling with a steep learning curve. It offers a seamless experience, allowing you to harness AI for a wide range of tasks, from data analysis to natural language processing and image recognition.</p><p><strong>Security and Privacy</strong></p><p>In an age where data security and privacy are paramount, JagatPro Studio takes these concerns seriously. It incorporates state-of-the-art security measures to safeguard user data. Rest assured that your sensitive information is protected from unauthorized access as you explore the capabilities of AI.</p><p><strong>Swift and Efficient</strong></p><p>Time is of the essence, and JagatPro Studio recognizes that. It operates with remarkable speed and efficiency, enabling users to access information and insights rapidly. Whether you're using it for business analytics or research, JagatPro Studio helps you save time and achieve results more swiftly.</p><p><strong>In Conclusion</strong></p><p>JagatPro Studio represents a paradigm shift in the world of AI applications. Its commitment to accessibility, user-friendliness, security, and efficiency make it a top choice for those eager to harness the power of AI. Whether you're a business owner, researcher, or simply curious about AI, this application simplifies the intricate realm of artificial intelligence, making its benefits accessible to all. With JagatPro Studio, the future of AI is at your fingertips.</p>"
+	},
+	{
+	  "id": 3,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Maximizing AI Potential Made Simple",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Learn how JagatPro Studio simplifies the process of harnessing AI's full potential",
+	  "link": "<p>Embracing artificial intelligence (AI) has never been easier, thanks to JagatPro Studio. In today's rapidly evolving technological landscape, AI plays a pivotal role in driving innovation and problem-solving. JagatPro Studio stands out as a prime example of how AI's full potential can be harnessed with simplicity.</p><p><strong>Unlocking the Full AI Potential</strong></p><p>With JagatPro Studio, there's no need for extensive AI expertise. It provides a straightforward pathway to harnessing AI for a wide range of applications. Whether you're interested in data analysis, natural language processing, or predictive modeling, JagatPro Studio makes it accessible to all.</p><p><strong>User-Friendly Interface</strong></p><p>JagatPro Studio boasts an intuitive user interface that caters to both seasoned AI professionals and newcomers to the field. Its design prioritizes ease of use, ensuring that anyone can tap into AI's capabilities without a steep learning curve.</p><p><strong>Efficiency and Speed</strong></p><p>Time is of the essence, and JagatPro Studio respects that. It operates efficiently, enabling users to quickly access AI-driven insights and information. This speed and efficiency make it an ideal choice for businesses, researchers, and individuals alike.</p><p><strong>Data Security and Privacy</strong></p><p>JagatPro Studio places a high premium on the security and privacy of user data. Cutting-edge security measures are integrated to safeguard sensitive information, guaranteeing that your data remains secure and protected from unauthorized access.</p><p><strong>Embrace AI Today</strong></p><p>In conclusion, JagatPro Studio simplifies the AI journey for everyone. Whether you're looking to revolutionize your business, conduct cutting-edge research, or explore the possibilities of AI, JagatPro Studio is your gateway to maximizing AI potential with ease. Embrace AI today and unlock new horizons with JagatPro Studio.</p>"
+	},
+	{
+	  "id": 4,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Helping You Understand AI with Ease",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Discover how JagatPro Studio simplifies the world of AI for you",
+	  "link": "<p>Artificial Intelligence (AI) can often seem like a complex and daunting field, but with JagatPro Studio, the path to understanding AI has never been more straightforward.</p><p><strong>Demystifying AI</strong></p><p>JagatPro Studio takes pride in demystifying the world of AI. Whether you're a business professional, a student, or just a curious individual, this application is designed to make AI accessible to everyone.</p><p><strong>Learn at Your Own Pace</strong></p><p>One of the standout features of JagatPro Studio is its learning-friendly approach. It allows you to explore AI concepts and applications at your own pace, without overwhelming technical jargon. Say goodbye to steep learning curves and hello to easy AI comprehension.</p><p><strong>Practical AI Insights</strong></p><p>JagatPro Studio offers practical insights into the world of AI. You can use it to gain a deeper understanding of AI's applications in data analysis, machine learning, and more. It's like having a personal AI tutor at your fingertips.</p><p><strong>Data Security Matters</strong></p><p>We understand the importance of data security. JagatPro Studio places a strong emphasis on safeguarding your data, ensuring that your learning journey remains private and secure.</p><p><strong>Begin Your AI Journey</strong></p><p>In conclusion, JagatPro Studio is your partner in navigating the world of AI with ease. Whether you're seeking to enhance your career prospects or simply want to broaden your knowledge, JagatPro Studio is your trusted companion on your AI journey. Start your AI exploration today with JagatPro Studio.</p>"
+	},
+	{
+	  "id": 5,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Exploring the Amazing World of AI",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Embark on a journey to uncover the wonders of AI with JagatPro Studio",
+	  "link": "<p>The world of Artificial Intelligence (AI) is a realm of endless possibilities, and with JagatPro Studio, you can embark on a captivating journey to explore its wonders.</p><p><strong>A World of Infinite Potential</strong></p><p>JagatPro Studio opens the door to a world of infinite AI potential. Whether you're an enthusiast, a professional, or a student, this application is your gateway to the extraordinary capabilities of AI.</p><p><strong>Discover, Learn, Grow</strong></p><p>One of the most exciting aspects of JagatPro Studio is its ability to foster discovery and learning. It allows you to delve into AI concepts, experiment with AI-driven solutions, and expand your horizons without constraints.</p><p><strong>Unleash Creativity with AI</strong></p><p>With JagatPro Studio, you can unleash your creativity and explore AI's applications in various fields, from art to science to business. The possibilities are limited only by your imagination.</p><p><strong>Your AI Companion</strong></p><p>JagatPro Studio is designed to be your trusted AI companion, providing insights, guidance, and a platform to experiment with AI. It's your passport to the amazing world of AI.</p><p><strong>Embark on the Journey</strong></p><p>In conclusion, JagatPro Studio invites you to embark on a journey of discovery in the amazing world of AI. Whether you're looking to innovate, create, or simply satisfy your curiosity, JagatPro Studio is your ultimate companion. Join us in exploring the boundless possibilities of AI today.</p>"
+	},
+	{
+	  "id": 6,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: AI for All Ages and Backgrounds",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Discover how JagatPro Studio makes AI accessible to everyone, regardless of their background or age",
+	  "link": "<p>Artificial Intelligence (AI) is no longer an exclusive domain reserved for experts. Thanks to JagatPro Studio, AI is now within reach for individuals of all ages and backgrounds.</p><p><strong>An Inclusive AI Experience</strong></p><p>JagatPro Studio is committed to providing an inclusive AI experience. It removes the barriers that once made AI seem intimidating, ensuring that anyone, regardless of their background or age, can harness the power of AI.</p><p><strong>AI Learning Made Easy</strong></p><p>Learning about AI has never been easier. JagatPro Studio offers a user-friendly platform where you can explore AI concepts, experiment with AI applications, and gain valuable insights at your own pace.</p><p><strong>Unlock Your Potential with AI</strong></p><p>With JagatPro Studio, you have the opportunity to unlock your potential with AI. Whether you're a student, a professional, or simply curious, this application empowers you to use AI for various tasks and creative endeavors.</p><p><strong>Your AI Journey Begins Here</strong></p><p>JagatPro Studio is your starting point for an enriching AI journey. It doesn't matter if you're new to AI or experienced – everyone is welcome to explore the world of AI with ease.</p><p><strong>Join the AI Revolution</strong></p><p>In conclusion, JagatPro Studio invites people of all ages and backgrounds to join the AI revolution. Embrace the possibilities of AI and discover how it can enhance your life and work. With JagatPro Studio, the world of AI is yours to explore and conquer.</p>"
+	},
+	{
+	  "id": 7,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Digital Transformation with AI Technology",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Explore how JagatPro Studio can drive digital transformation using AI technology",
+	  "link": "<p>In the era of digital transformation, leveraging the power of Artificial Intelligence (AI) is essential for businesses and organizations to stay competitive. JagatPro Studio is at the forefront of this transformation, helping enterprises embrace AI technology.</p><p><strong>Unlocking the Potential of AI</strong></p><p>JagatPro Studio unlocks the full potential of AI for businesses seeking digital transformation. It provides tools and solutions that enable organizations to harness AI's capabilities for enhanced efficiency, decision-making, and customer experiences.</p><p><strong>AI-Powered Insights</strong></p><p>With JagatPro Studio, organizations gain access to AI-powered insights that drive data-driven strategies. From predictive analytics to automated processes, this application empowers businesses to make informed decisions in real-time.</p><p><strong>Seamless Integration</strong></p><p>JagatPro Studio seamlessly integrates with existing systems, making it a valuable addition to any organization's technology stack. It's designed to enhance workflows, streamline operations, and drive innovation across all sectors.</p><p><strong>Staying Ahead of the Curve</strong></p><p>With JagatPro Studio, organizations can stay ahead of the curve in the fast-paced digital landscape. Whether it's optimizing processes, improving customer experiences, or innovating with AI-driven solutions, this application is your partner in digital transformation.</p><p><strong>Empower Your Digital Journey</strong></p><p>In conclusion, JagatPro Studio is your gateway to digital transformation with AI technology. Embrace the future of business by harnessing the power of AI. Join the ranks of organizations that are using JagatPro Studio to empower their digital journey.</p>"
+	},
+	{
+	  "id": 8,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: AI Breakthroughs You Need to Know",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Discover the latest AI breakthroughs and innovations powered by JagatPro Studio",
+	  "link": "<p>The world of Artificial Intelligence (AI) is constantly evolving, and staying up-to-date with the latest breakthroughs is crucial. JagatPro Studio is your gateway to exploring the cutting-edge AI innovations that are shaping the future.</p><p><strong>Stay Informed with AI</strong></p><p>JagatPro Studio helps you stay informed about the latest AI breakthroughs. From advancements in machine learning to novel AI applications, this application keeps you in the loop with concise and accessible information.</p><p><strong>Real-World AI Applications</strong></p><p>Discover real-world AI applications and success stories powered by JagatPro Studio. Learn how organizations across various industries are leveraging AI to solve complex problems, improve processes, and innovate.</p><p><strong>Insights from AI Experts</strong></p><p>JagatPro Studio provides insights from AI experts, offering their perspectives on the current state of AI and its future implications. Get valuable knowledge from those at the forefront of AI research and development.</p><p><strong>AI for Everyone</strong></p><p>Whether you're an AI enthusiast, a professional in the field, or simply curious about AI breakthroughs, JagatPro Studio makes AI accessible to everyone. Dive into the world of AI with ease.</p><p><strong>Explore the Future of AI</strong></p><p>In conclusion, JagatPro Studio is your portal to exploring the AI breakthroughs that are shaping the future. Stay informed, gain insights, and be part of the AI revolution with JagatPro Studio. Explore the exciting world of AI today.</p>"
+	},
+	{
+	  "id": 9,
+	  "name_category": "Guide",
+	  "title": "JagatPro Studio: Optimizing Performance with AI",
+	  "image": "file:///android_asset/image/namaicon.jpg",
+	  "description": "Learn how JagatPro Studio can enhance performance and efficiency with AI",
+	  "link": "<p>Enhancing performance and efficiency is a top priority for businesses and individuals alike. JagatPro Studio is here to show you how the power of Artificial Intelligence (AI) can help you achieve optimization in various aspects of your life.</p><p><strong>AI-Powered Performance</strong></p><p>JagatPro Studio leverages AI to optimize performance in numerous ways. From automating tasks to providing data-driven insights, this application is designed to help you achieve your goals more efficiently.</p><p><strong>Efficiency Across Industries</strong></p><p>Discover how JagatPro Studio is being used across different industries to drive efficiency. Whether it's streamlining manufacturing processes, enhancing customer experiences, or improving healthcare outcomes, AI is at the heart of optimization.</p><p><strong>Personalized Solutions</strong></p><p>JagatPro Studio tailors AI solutions to meet your specific needs. Whether you're an individual looking to boost productivity or a business aiming to optimize operations, personalized AI-driven approaches are at your disposal.</p><p><strong>The Future of Performance Enhancement</strong></p><p>JagatPro Studio is not just about the present; it's also about shaping the future of performance enhancement with AI. Explore the potential of AI to revolutionize the way we work, live, and innovate.</p><p><strong>Optimize Your Journey</strong></p><p>In conclusion, JagatPro Studio is your partner in optimizing performance with AI. Embrace the power of AI to achieve your goals and streamline your journey toward success. Discover the limitless possibilities of AI-driven performance enhancement with JagatPro Studio.</p>"
+	}
+  ]
+}
