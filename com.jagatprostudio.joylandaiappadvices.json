@@ -1,0 +1,241 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "enable_custom_activity_maintenance" : true
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": true,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+        "id": 1,
+        "name_category": "Introduction",
+        "title": "Welcome to Joyland AI: Where Conversations Come to Life",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Engage in character-driven conversations on an immersive AI chatbot platform. Create your own adventure, escape the mundane and immerse yourself in Joyland!",
+        "link": "<p>Engage in character-driven conversations on an immersive AI chatbot platform. Create your own adventure, escape the mundane and immerse yourself in Joyland!</p>"
+    },
+    {
+        "id": 2,
+        "name_category": "Getting Started",
+        "title": "Getting Started: Navigating Joyland AI for New Users",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Embark on your Joyland AI journey with this guide for new users. Learn how to create unique conversations and make the most of this immersive platform.",
+        "link": "<p>Embark on your Joyland AI journey with this guide for new users. Learn how to create unique conversations and make the most of this immersive platform.</p>"
+    },
+    {
+        "id": 3,
+        "name_category": "Character Driven Conversations",
+        "title": "Character-Driven Conversations: Bringing Stories to Life",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Explore the art of character-driven conversations in Joyland AI. Dive deep into interactive stories and shape the narrative with your choices.",
+        "link": "<p>Explore the art of character-driven conversations in Joyland AI. Dive deep into interactive stories and shape the narrative with your choices.</p>"
+    },
+    {
+        "id": 4,
+        "name_category": "Creating Adventures",
+        "title": "Creating Adventures: Unleashing Your Imagination in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Learn how to create your own adventures in Joyland AI. Craft compelling narratives and let your creativity run wild in this immersive platform.",
+        "link": "<p>Learn how to create your own adventures in Joyland AI. Craft compelling narratives and let your creativity run wild in this immersive platform.</p>"
+    },
+    {
+        "id": 5,
+        "name_category": "Escaping the Mundane",
+        "title": "Escaping the Mundane: Finding Excitement in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Discover how Joyland AI offers an escape from the ordinary. Immerse yourself in thrilling adventures and leave behind the mundane.",
+        "link": "<p>Discover how Joyland AI offers an escape from the ordinary. Immerse yourself in thrilling adventures and leave behind the mundane.</p>"
+    },
+    {
+        "id": 6,
+        "name_category": "Role-Playing Scenarios",
+        "title": "Role-Playing Scenarios: Embrace Your Inner Character in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Dive into role-playing scenarios with Joyland AI. Assume different characters, embark on quests, and experience a world of endless possibilities.",
+        "link": "<p>Dive into role-playing scenarios with Joyland AI. Assume different characters, embark on quests, and experience a world of endless possibilities.</p>"
+    },
+    {
+        "id": 7,
+        "name_category": "Immersive Storytelling",
+        "title": "Immersive Storytelling: Crafting Narratives in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Learn the art of immersive storytelling in Joyland AI. Create captivating narratives that draw users into a world of imagination and wonder.",
+        "link": "<p>Learn the art of immersive storytelling in Joyland AI. Create captivating narratives that draw users into a world of imagination and wonder.</p>"
+    },
+    {
+        "id": 8,
+        "name_category": "Multi-Platform Accessibility",
+        "title": "Multi-Platform Accessibility: Enjoy Joyland AI Anytime, Anywhere",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Experience the convenience of Joyland AI across multiple platforms. Whether on desktop or mobile, enjoy seamless conversations and adventures.",
+        "link": "<p>Experience the convenience of Joyland AI across multiple platforms. Whether on desktop or mobile, enjoy seamless conversations and adventures.</p>"
+    },
+    {
+        "id": 9,
+        "name_category": "Community and Collaboration",
+        "title": "Community and Collaboration: Connect with Fellow Joyland AI Enthusiasts",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Join a vibrant community of Joyland AI users. Collaborate on stories, share experiences, and engage with fellow enthusiasts in this creative space.",
+        "link": "<p>Join a vibrant community of Joyland AI users. Collaborate on stories, share experiences, and engage with fellow enthusiasts in this creative space.</p>"
+    },
+    {
+        "id": 10,
+        "name_category": "Innovation in AI",
+        "title": "Innovation in AI: Pioneering the Future of Conversational Platforms",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Explore the cutting-edge technology behind Joyland AI. Discover how this platform is revolutionizing the way we engage in character-driven conversations.",
+        "link": "<p>Explore the cutting-edge technology behind Joyland AI. Discover how this platform is revolutionizing the way we engage in character-driven conversations.</p>"
+    },
+    {
+        "id": 11,
+        "name_category": "The Art of AI",
+        "title": "The Art of AI: Blending Creativity and Technology in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Delve into the intersection of creativity and technology with Joyland AI. Learn how AI enhances the storytelling experience and fuels imagination.",
+        "link": "<p>Delve into the intersection of creativity and technology with Joyland AI. Learn how AI enhances the storytelling experience and fuels imagination.</p>"
+    },
+    {
+        "id": 12,
+        "name_category": "User-Centric Experience",
+        "title": "User-Centric Experience: Tailoring Joyland AI for Your Unique Journey",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Discover how Joyland AI prioritizes the user experience. Customize your journey, explore diverse scenarios, and make the most of this dynamic platform.",
+        "link": "<p>Discover how Joyland AI prioritizes the user experience. Customize your journey, explore diverse scenarios, and make the most of this dynamic platform.</p>"
+    },
+    {
+        "id": 13,
+        "name_category": "Unleashing Creativity",
+        "title": "Unleashing Creativity: Crafting Worlds with Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Learn how Joyland AI empowers users to unleash their creativity. Build imaginative worlds, shape characters, and embark on extraordinary journeys.",
+        "link": "<p>Learn how Joyland AI empowers users to unleash their creativity. Build imaginative worlds, shape characters, and embark on extraordinary journeys.</p>"
+    },
+    {
+        "id": 14,
+        "name_category": "AI and Storytelling",
+        "title": "AI and Storytelling: Redefining Narrative Possibilities with Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Explore the synergy between AI and storytelling in Joyland AI. Witness how technology elevates narrative possibilities and enriches the user experience.",
+        "link": "<p>Explore the synergy between AI and storytelling in Joyland AI. Witness how technology elevates narrative possibilities and enriches the user experience.</p>"
+    },
+    {
+        "id": 15,
+        "name_category": "Interactive Learning",
+        "title": "Interactive Learning: Education and Exploration in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Discover how Joyland AI serves as a platform for interactive learning. Engage in educational scenarios, explore new concepts, and expand your knowledge.",
+        "link": "<p>Discover how Joyland AI serves as a platform for interactive learning. Engage in educational scenarios, explore new concepts, and expand your knowledge.</p>"
+    },
+    {
+        "id": 16,
+        "name_category": "Adventures Beyond Borders",
+        "title": "Adventures Beyond Borders: Connecting Cultures in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Experience the magic of cultural exchange in Joyland AI. Engage in conversations that bridge gaps, celebrate diversity, and foster global connections.",
+        "link": "<p>Experience the magic of cultural exchange in Joyland AI. Engage in conversations that bridge gaps, celebrate diversity, and foster global connections.</p>"
+    },
+    {
+        "id": 17,
+        "name_category": "Future of Conversations",
+        "title": "Future of Conversations: Trends and Innovations in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Get a glimpse into the future of conversations with Joyland AI. Explore emerging trends and innovations that are shaping the landscape of interactive storytelling.",
+        "link": "<p>Get a glimpse into the future of conversations with Joyland AI. Explore emerging trends and innovations that are shaping the landscape of interactive storytelling.</p>"
+    },
+    {
+        "id": 18,
+        "name_category": "AI and Everyday Life",
+        "title": "AI and Everyday Life: Enhancing Daily Experiences with Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Learn how AI is integrated into our daily lives through Joyland AI. Discover how conversations with AI enrich everyday experiences and open new possibilities.",
+        "link": "<p>Learn how AI is integrated into our daily lives through Joyland AI. Discover how conversations with AI enrich everyday experiences and open new possibilities.</p>"
+    },
+    {
+        "id": 19,
+        "name_category": "Inspiration Through Conversations",
+        "title": "Inspiration Through Conversations: Finding Creative Sparks in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Uncover the potential for inspiration in Joyland AI conversations. Experience how engaging with AI-driven characters can ignite your own creative sparks.",
+        "link": "<p>Uncover the potential for inspiration in Joyland AI conversations. Experience how engaging with AI-driven characters can ignite your own creative sparks.</p>"
+    },
+    {
+        "id": 20,
+        "name_category": "AI and Emotional Connections",
+        "title": "AI and Emotional Connections: Nurturing Bonds in Joyland AI",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Explore the unique emotional connections that can be formed in Joyland AI. Witness how AI-driven conversations can touch hearts and create lasting impressions.",
+        "link": "<p>Explore the unique emotional connections that can be formed in Joyland AI. Witness how AI-driven conversations can touch hearts and create lasting impressions.</p>"
+    },
+    {
+        "id": 21,
+        "name_category": "The Joyland AI Community",
+        "title": "The Joyland AI Community: Celebrating Stories and Creators",
+        "image": "file:///android_asset/image/joyland_icon.jpg",
+        "description": "Join the vibrant Joyland AI community. Celebrate the creativity of fellow creators, share your own stories, and be a part of this imaginative and collaborative space.",
+        "link": "<p>Join the vibrant Joyland AI community. Celebrate the creativity of fellow creators, share your own stories, and be a part of this imaginative and collaborative space.</p>"
+    }
+  ]
+}
