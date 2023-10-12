@@ -14,10 +14,10 @@
         "value": 1,
         "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
+        "appId_appKey_publisherId_gameId": "1969629906805054",
+        "banner": "1969629906805054_1969688293465882",
         "mrec": "off",
-        "inter": "-",
+        "inter": "1969629906805054_1969688433465868",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
@@ -36,7 +36,7 @@
     "item_interval_native_ad_list": 4,
 
     "enable_banner_ads": true,
-    "enable_category": true,
+    "enable_category": false,
     "enable_more_app": false
   },
 
