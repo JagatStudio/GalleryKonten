@@ -1,0 +1,228 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Unleashing Creativity: ArtGuru Face Swap App's Imagination Realm",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Ever wondered what it would be like to effortlessly swap your face with that of your favorite celebrity, explore different ethnic styles, or simply have a good laugh with friends? Look no further, because I'm about to introduce you to the world of ArtGuru Face Swap APK (aka ArtGuru AI Yearbook). This remarkable application is not just a photo editor; it's a ticket to unlock your wildest imagination and let your creativity run wild. With ArtGuru AI Yearbook, you can step into the faces of iconic figures, travel the world through your selfies, and embark on an adventure of visual storytelling like never before. Let's dive in and discover how this fun and user-friendly app can transform your selfies into something truly extraordinary.",
+    "link": "<p>Ever wondered what it would be like to effortlessly swap your face with that of your favorite celebrity, explore different ethnic styles, or simply have a good laugh with friends? Look no further, because I'm about to introduce you to the world of ArtGuru Face Swap APK (aka ArtGuru AI Yearbook). This remarkable application is not just a photo editor"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "Mastering the Art: ArtGuru Face Swap App Tips and Tricks",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Get ready to embark on a journey of artistic expression with ArtGuru Face Swap App. In this guide, we'll walk you through the tips and tricks to master the art of face swapping. Whether you're looking to create hilarious memes or awe-inspiring transformations, you'll find everything you need to know right here. Let's dive in and unleash your inner artist!",
+    "link": "<p>Get ready to embark on a journey of artistic expression with ArtGuru Face Swap App. In this guide, we'll walk you through the tips and tricks to master the art of face swapping. Whether you're looking to create hilarious memes or awe-inspiring transformations, you'll find everything you need to know right here. Let's dive in and unleash your inner artist!</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Exploring Boundaries: Pushing the Limits with ArtGuru Face Swap",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Get ready to push the boundaries of creativity with ArtGuru Face Swap. This guide will take you on a journey of exploration and experimentation, showing you how to take your face swapping skills to the next level. From blending techniques to advanced customization, we've got you covered. Let's embark on this creative adventure!",
+    "link": "<p>Get ready to push the boundaries of creativity with ArtGuru Face Swap. This guide will take you on a journey of exploration and experimentation, showing you how to take your face swapping skills to the next level. From blending techniques to advanced customization, we've got you covered. Let's embark on this creative adventure!</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Crafting Moments: ArtGuru Face Swap for Memorable Creations",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Create unforgettable moments with ArtGuru Face Swap. This guide will walk you through the steps to craft memorable and shareable creations using the power of face swapping. Whether it's for special occasions or everyday fun, you'll learn how to make every moment count. Let's start crafting!",
+    "link": "<p>Create unforgettable moments with ArtGuru Face Swap. This guide will walk you through the steps to craft memorable and shareable creations using the power of face swapping. Whether it's for special occasions or everyday fun, you'll learn how to make every moment count. Let's start crafting!</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "From Novice to Pro: Navigating ArtGuru Face Swap Like a Champ",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Whether you're a complete novice or a seasoned pro, this guide will help you navigate ArtGuru Face Swap like a champ. We'll cover everything from the basics to advanced techniques, ensuring you have the skills and knowledge to create stunning face swaps with ease. Let's embark on this journey of mastery!",
+    "link": "<p>Whether you're a complete novice or a seasoned pro, this guide will help you navigate ArtGuru Face Swap like a champ. We'll cover everything from the basics to advanced techniques, ensuring you have the skills and knowledge to create stunning face swaps with ease. Let's embark on this journey of mastery!</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "Uncharted Territories: ArtGuru Face Swap Beyond the Basics",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Ready to explore uncharted territories with ArtGuru Face Swap? This guide delves into the advanced features and possibilities that await you. From morphing techniques to special effects, you'll discover how to take your face swapping game to new heights. Let's venture into the world of limitless creativity!",
+    "link": "<p>Ready to explore uncharted territories with ArtGuru Face Swap? This guide delves into the advanced features and possibilities that await you. From morphing techniques to special effects, you'll discover how to take your face swapping game to new heights. Let's venture into the world of limitless creativity!</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "The ArtGuru Face Swap Revolution: Changing the Face of Creativity",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Join the revolution of creativity with ArtGuru Face Swap. This guide explores how this innovative application is changing the face of visual storytelling. From transforming selfies into works of art to creating jaw-dropping face swaps, you'll witness the power of artistic expression in action. Let's be part of the creative revolution!",
+    "link": "<p>Join the revolution of creativity with ArtGuru Face Swap. This guide explores how this innovative application is changing the face of visual storytelling. From transforming selfies into works of art to creating jaw-dropping face swaps, you'll witness the power of artistic expression in action. Let's be part of the creative revolution!</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "Elevate Your Selfies: ArtGuru Face Swap's Impact on Visual Storytelling",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Get ready to elevate your selfies with ArtGuru Face Swap. This guide delves into the impact of visual storytelling and how face swapping plays a crucial role. You'll learn how to turn ordinary selfies into extraordinary narratives, leaving a lasting impression on your audience. Let's embark on this journey of visual transformation!",
+    "link": "<p>Get ready to elevate your selfies with ArtGuru Face Swap. This guide delves into the impact of visual storytelling and how face swapping plays a crucial role. You'll learn how to turn ordinary selfies into extraordinary narratives, leaving a lasting impression on your audience. Let's embark on this journey of visual transformation!</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "Unmasking Creativity: The ArtGuru Face Swap Experience",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Unmask your true creative potential with the ArtGuru Face Swap experience. This guide takes you on a journey of self-discovery through the art of face swapping. Explore different styles, personas, and expressions as you redefine your visual identity. Let's embark on this transformative journey together!",
+    "link": "<p>Unmask your true creative potential with the ArtGuru Face Swap experience. This guide takes you on a journey of self-discovery through the art of face swapping. Explore different styles, personas, and expressions as you redefine your visual identity. Let's embark on this transformative journey together!</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "The ArtGuru Face Swap Guide: Your Path to Creative Mastery",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Embark on a transformative journey of creative mastery with the ArtGuru Face Swap guide. Whether you're a beginner or a seasoned artist, you'll find valuable insights and techniques to enhance your face swapping skills. Unleash your imagination and create visual masterpieces like never before. Let's start this artistic adventure!",
+    "link": "<p>Embark on a transformative journey of creative mastery with the ArtGuru Face Swap guide. Whether you're a beginner or a seasoned artist, you'll find valuable insights and techniques to enhance your face swapping skills. Unleash your imagination and create visual masterpieces like never before. Let's start this artistic adventure!</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "Mastering ArtGuru Face Swap: Tips from the Pros",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Learn from the pros and master ArtGuru Face Swap with expert tips and techniques. This guide features insights from seasoned artists who have pushed the boundaries of creativity with face swapping. Discover their secrets and apply them to your own artistic journey. Let's elevate your face swaps to a whole new level!",
+    "link": "<p>Learn from the pros and master ArtGuru Face Swap with expert tips and techniques. This guide features insights from seasoned artists who have pushed the boundaries of creativity with face swapping. Discover their secrets and apply them to your own artistic journey. Let's elevate your face swaps to a whole new level!</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "ArtGuru Face Swap: Redefining Self-Expression",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Experience a new era of self-expression with ArtGuru Face Swap. This guide explores how face swapping has redefined the way we communicate and share our unique identities. From playful transformations to powerful statements, you'll witness the impact of visual storytelling. Let's embark on this journey of self-discovery!",
+    "link": "<p>Experience a new era of self-expression with ArtGuru Face Swap. This guide explores how face swapping has redefined the way we communicate and share our unique identities. From playful transformations to powerful statements, you'll witness the impact of visual storytelling. Let's embark on this journey of self-discovery!</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "The ArtGuru Face Swap Revolution: A Game-Changer in Visual Content",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Step into the future of visual content creation with the ArtGuru Face Swap revolution. This guide dives into the innovative features and possibilities that make face swapping a game-changer. From viral-worthy creations to personal branding, you'll discover how to leave a mark in the digital landscape. Let's revolutionize visual content together!",
+    "link": "<p>Step into the future of visual content creation with the ArtGuru Face Swap revolution. This guide dives into the innovative features and possibilities that make face swapping a game-changer. From viral-worthy creations to personal branding, you'll discover how to leave a mark in the digital landscape. Let's revolutionize visual content together!</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "ArtGuru Face Swap: Crafting Visual Stories Beyond Boundaries",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Break free from boundaries and craft visual stories that resonate with ArtGuru Face Swap. This guide empowers you to explore limitless possibilities in face swapping. From narrative storytelling to abstract expressions, you'll learn how to make your visuals speak volumes. Let's embark on this journey of creative liberation!",
+    "link": "<p>Break free from boundaries and craft visual stories that resonate with ArtGuru Face Swap. This guide empowers you to explore limitless possibilities in face swapping. From narrative storytelling to abstract expressions, you'll learn how to make your visuals speak volumes. Let's embark on this journey of creative liberation!</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "The ArtGuru Face Swap Experience: A Symphony of Visual Creativity",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Immerse yourself in the symphony of visual creativity with the ArtGuru Face Swap experience. This guide celebrates the fusion of art and technology, showcasing how face swapping has become a powerful medium of self-expression. Join us in exploring the harmony of creativity and innovation. Let's create a visual masterpiece!",
+    "link": "<p>Immerse yourself in the symphony of visual creativity with the ArtGuru Face Swap experience. This guide celebrates the fusion of art and technology, showcasing how face swapping has become a powerful medium of self-expression. Join us in exploring the harmony of creativity and innovation. Let's create a visual masterpiece!</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "Guide",
+    "title": "ArtGuru Face Swap: A Canvas for Your Imagination",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Turn ArtGuru Face Swap into your canvas and let your imagination run wild. This guide encourages you to unleash your creative spirit and transform ordinary images into extraordinary works of art. With a wide range of features and tools at your disposal, the possibilities are endless. Let's paint a masterpiece together!",
+    "link": "<p>Turn ArtGuru Face Swap into your canvas and let your imagination run wild. This guide encourages you to unleash your creative spirit and transform ordinary images into extraordinary works of art. With a wide range of features and tools at your disposal, the possibilities are endless. Let's paint a masterpiece together!</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "Guide",
+    "title": "Innovative Creations: ArtGuru Face Swap and the Future of Visual Art",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Explore the future of visual art with innovative creations using ArtGuru Face Swap. This guide delves into the cutting-edge technology that powers face swapping and its impact on the art world. From AI-driven enhancements to seamless blending, you'll witness the evolution of artistic expression. Let's shape the future of visual art together!",
+    "link": "<p>Explore the future of visual art with innovative creations using ArtGuru Face Swap. This guide delves into the cutting-edge technology that powers face swapping and its impact on the art world. From AI-driven enhancements to seamless blending, you'll witness the evolution of artistic expression. Let's shape the future of visual art together!</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "Guide",
+    "title": "ArtGuru Face Swap: From Pixels to Masterpieces",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Witness the transformation of pixels into masterpieces with ArtGuru Face Swap. This guide illuminates the process of turning ordinary images into extraordinary works of art. With a powerful set of tools and features, you'll redefine what's possible in visual storytelling. Let's embark on this journey of pixelated wonder!",
+    "link": "<p>Witness the transformation of pixels into masterpieces with ArtGuru Face Swap. This guide illuminates the process of turning ordinary images into extraordinary works of art. With a powerful set of tools and features, you'll redefine what's possible in visual storytelling. Let's embark on this journey of pixelated wonder!</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "Guide",
+    "title": "ArtGuru Face Swap: Elevating Visual Communication",
+    "image": "file:///android_asset/image/artguru_icon.jpg",
+    "description": "Experience the next level of visual communication with ArtGuru Face Swap. This guide showcases how face swapping has revolutionized the way we convey messages and share experiences. From personal connections to brand storytelling, you'll witness the power of visual expression. Let's elevate your communication through art!",
+    "link": "<p>Experience the next level of visual communication with ArtGuru Face Swap. This guide showcases how face swapping has revolutionized the way we convey messages and share experiences. From personal connections to brand storytelling, you'll witness the power of visual expression. Let's elevate your communication through art!</p>"
+  }
+]
+
+
+}
