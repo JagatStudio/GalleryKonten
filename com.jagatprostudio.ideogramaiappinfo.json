@@ -1,0 +1,227 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Artistic Expression",
+    "title": "Unlocking Creativity: Ideogram AI Unique Art Integration",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Discover how Ideogram AI revolutionizes artistic expression by seamlessly integrating text into images. Explore the boundless creative possibilities of this exceptional AI-powered art generator.",
+    "link": "<p>Discover how Ideogram AI revolutionizes artistic expression by seamlessly integrating text into images. Explore the boundless creative possibilities of this exceptional AI-powered art generator.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Free and Accessible",
+    "title": "Art Without Cost: Ideogram AI Free Services",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Learn how Ideogram AI sets itself apart by offering its exceptional services completely free of charge. Dive into a world of artistic creation without any financial constraints.",
+    "link": "<p>Learn how Ideogram AI sets itself apart by offering its exceptional services completely free of charge. Dive into a world of artistic creation without any financial constraints.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Creative Fusion",
+    "title": "Fusing Text and Art: Ideogram AI Unique Capability",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Explore Ideogram AI extraordinary ability to seamlessly incorporate text into images. Witness the magic of creative fusion as this AI-powered tool transforms visuals with integrated text elements.",
+    "link": "<p>Explore Ideogram AI extraordinary ability to seamlessly incorporate text into images. Witness the magic of creative fusion as this AI-powered tool transforms visuals with integrated text elements.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "The Power of Integration",
+    "title": "Integration Unleashed: Ideogram AI Artistic Potential",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Discover how Ideogram AI harnesses the power of integration to elevate artistic potential. Experience the seamless blend of text and visuals, unlocking new dimensions of creative expression.",
+    "link": "<p>Discover how Ideogram AI harnesses the power of integration to elevate artistic potential. Experience the seamless blend of text and visuals, unlocking new dimensions of creative expression.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Boundless Creativity",
+    "title": "Unleashing Creativity: Ideogram AI Artistic Frontier",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Embark on a journey of boundless creativity with Ideogram AI. Witness the convergence of text and art in a seamless union, giving rise to visually stunning creations.",
+    "link": "<p>Embark on a journey of boundless creativity with Ideogram AI. Witness the convergence of text and art in a seamless union, giving rise to visually stunning creations.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Innovative Artistry",
+    "title": "Innovation in Art: Ideogram AI Text Integration Mastery",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Explore the innovative artistry of Ideogram AI through its mastery of text integration. Immerse yourself in a world where words and visuals seamlessly coexist, giving birth to unique and captivating artwork.",
+    "link": "<p>Explore the innovative artistry of Ideogram AI through its mastery of text integration. Immerse yourself in a world where words and visuals seamlessly coexist, giving birth to unique and captivating artwork.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "The Artistic Revolution",
+    "title": "Revolutionizing Art: Ideogram AI Text Integration Revolution",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Witness the artistic revolution brought forth by Ideogram AI groundbreaking text integration capabilities. Experience a paradigm shift in artistic expression as text seamlessly becomes part of visual art.",
+    "link": "<p>Witness the artistic revolution brought forth by Ideogram AI groundbreaking text integration capabilities. Experience a paradigm shift in artistic expression as text seamlessly becomes part of visual art.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "A World of Creative Freedom",
+    "title": "Freedom in Art: Ideogram AI Boundaryless Creation",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Step into a world of creative freedom with Ideogram AI. Experience the liberation of artistic expression as text seamlessly merges with images, offering limitless possibilities for creativity.",
+    "link": "<p>Step into a world of creative freedom with Ideogram AI. Experience the liberation of artistic expression as text seamlessly merges with images, offering limitless possibilities for creativity.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "The Artistic Fusion",
+    "title": "Fusion Redefined: Ideogram AI Text Integration Mastery",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Immerse yourself in the artistic fusion curated by Ideogram AI. Witness how text and visuals harmoniously combine to create a symphony of creativity that transcends conventional boundaries.",
+    "link": "<p>Immerse yourself in the artistic fusion curated by Ideogram AI. Witness how text and visuals harmoniously combine to create a symphony of creativity that transcends conventional boundaries.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "A Symphony of Art and Text",
+    "title": "Symphony Unleashed: Ideogram AI Artistic Harmony",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Experience the symphony of art and text with Ideogram AI. Dive into a realm where the boundaries between words and visuals dissolve, giving rise to a harmonious artistic expression.",
+    "link": "<p>Experience the symphony of art and text with Ideogram AI. Dive into a realm where the boundaries between words and visuals dissolve, giving rise to a harmonious artistic expression.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Text and Visuals United",
+    "title": "Harmony Achieved: Ideogram AI Artistic Convergence",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Witness the seamless convergence of text and visuals with Ideogram AI. Experience the union of words and art in a way that transcends traditional artistic boundaries.",
+    "link": "<p>Witness the seamless convergence of text and visuals with Ideogram AI. Experience the union of words and art in a way that transcends traditional artistic boundaries.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "The Artistic Canvas",
+    "title": "Canvas Redefined: Ideogram AI's Artistic Ingenuity",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Explore the redefined artistic canvas of Ideogram AI. Immerse yourself in a world where text breathes life into images, creating a canvas that tells a story beyond the surface.",
+    "link": "<p>Explore the redefined artistic canvas of Ideogram AI. Immerse yourself in a world where text breathes life into images, creating a canvas that tells a story beyond the surface.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "The Artistic Tapestry",
+    "title": "Tapestry Unwoven: Ideogram AI's Artistic Narrative",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Unweave the intricate tapestry of Ideogram AI's artistic narrative. Witness how text threads itself into visuals, creating a story that resonates with depth and emotion.",
+    "link": "<p>Unweave the intricate tapestry of Ideogram AI's artistic narrative. Witness how text threads itself into visuals, creating a story that resonates with depth and emotion.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "A New Era of Art",
+    "title": "Artistic Renaissance: Ideogram AI's Era of Innovation",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Welcome the new era of artistic innovation with Ideogram AI. Experience a renaissance where text and visuals merge to create a form of art that transcends time and convention.",
+    "link": "<p>Welcome the new era of artistic innovation with Ideogram AI. Experience a renaissance where text and visuals merge to create a form of art that transcends time and convention.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Text-Infused Artistry",
+    "title": "Artistic Alchemy: Ideogram AI's Text Integration Magic",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Experience the alchemy of art and text with Ideogram AI. Witness the magical transformation as words seamlessly meld with visuals, creating a new form of artistic expression.",
+    "link": "<p>Experience the alchemy of art and text with Ideogram AI. Witness the magical transformation as words seamlessly meld with visuals, creating a new form of artistic expression.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "The Artistic Journey",
+    "title": "Journey Through Art: Ideogram AI's Text Integration Chronicle",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Embark on an artistic journey with Ideogram AI. Explore how text weaves itself into visuals, creating a narrative that speaks to the soul and sparks the imagination.",
+    "link": "<p>Embark on an artistic journey with Ideogram AI. Explore how text weaves itself into visuals, creating a narrative that speaks to the soul and sparks the imagination.</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "The Artistic Odyssey",
+    "title": "Odyssey of Art: Ideogram AI's Text Integration Saga",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Embark on an odyssey of art with Ideogram AI. Witness the saga of text and visuals, where each creation tells a story that resonates with the heart and mind.",
+    "link": "<p>Embark on an odyssey of art with Ideogram AI. Witness the saga of text and visuals, where each creation tells a story that resonates with the heart and mind.</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "The Artistic Tapestry",
+    "title": "Tapestry of Creation: Ideogram AI's Text Integration Symphony",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Witness the symphony of creation with Ideogram AI. Explore how text becomes an integral thread in the artistic tapestry, weaving a narrative that speaks to the soul.",
+    "link": "<p>Witness the symphony of creation with Ideogram AI. Explore how text becomes an integral thread in the artistic tapestry, weaving a narrative that speaks to the soul.</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "The Artistic Revelation",
+    "title": "Revelation Through Art: Ideogram AI's Text Integration Epiphany",
+    "image": "file:///android_asset/image/ideogram_ai_icon.jpg",
+    "description": "Experience an epiphany through art with Ideogram AI. Witness the revelation of text merging with visuals, creating a form of artistic expression that transcends the ordinary.",
+    "link": "<p>Experience an epiphany through art with Ideogram AI. Witness the revelation of text merging with visuals, creating a form of artistic expression that transcends the ordinary.</p>"
+  }
+]
+
+}
