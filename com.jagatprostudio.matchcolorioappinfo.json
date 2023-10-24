@@ -1,0 +1,210 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Getting Started with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Discover the basics of Matchcolor io and learn how to use this powerful tool for color matching. Whether you're a beginner or an experienced designer, this guide will walk you through the process step by step.",
+    "link": "<p>Discover the basics of Matchcolor io and learn how to use this powerful tool for color matching. Whether you're a beginner or an experienced designer, this guide will walk you through the process step by step.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "Exploring Advanced Features in Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Take your color matching skills to the next level with Matchcolor io's advanced features. From custom palettes to real-time adjustments, this guide will show you how to make the most out of this versatile tool.",
+    "link": "<p>Take your color matching skills to the next level with Matchcolor io's advanced features. From custom palettes to real-time adjustments, this guide will show you how to make the most out of this versatile tool.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Creating Harmonious Color Schemes with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Learn the art of creating harmonious color schemes with Matchcolor io. Whether you're working on a design project or choosing colors for your home, this guide will help you find the perfect combinations.",
+    "link": "<p>Learn the art of creating harmonious color schemes with Matchcolor io. Whether you're working on a design project or choosing colors for your home, this guide will help you find the perfect combinations.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Optimizing Workflows with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Discover how Matchcolor io can streamline your workflow and save you time in the color selection process. This guide will introduce you to efficient techniques for achieving the perfect color match.",
+    "link": "<p>Discover how Matchcolor io can streamline your workflow and save you time in the color selection process. This guide will introduce you to efficient techniques for achieving the perfect color match.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "Mastering Color Matching with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Become a master of color matching with the help of Matchcolor io. This guide will provide you with expert tips and tricks for achieving precise and visually appealing color combinations.",
+    "link": "<p>Become a master of color matching with the help of Matchcolor io. This guide will provide you with expert tips and tricks for achieving precise and visually appealing color combinations.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "Enhancing Designs with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Learn how to enhance your designs using Matchcolor io's advanced color matching techniques. From web design to print materials, this guide will show you how to make your creations stand out.",
+    "link": "<p>Learn how to enhance your designs using Matchcolor io's advanced color matching techniques. From web design to print materials, this guide will show you how to make your creations stand out.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "The Science of Color Matching: Insights from Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Dive into the science behind color matching with Matchcolor io. This guide will provide you with valuable insights into the psychology of color and how it influences perception.",
+    "link": "<p>Dive into the science behind color matching with Matchcolor io. This guide will provide you with valuable insights into the psychology of color and how it influences perception.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "Achieving Consistency in Color Selection with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Learn how to achieve consistent color selection across your projects with Matchcolor io. This guide will show you methods for maintaining a cohesive color palette.",
+    "link": "<p>Learn how to achieve consistent color selection across your projects with Matchcolor io. This guide will show you methods for maintaining a cohesive color palette.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "Incorporating Trends in Color Design with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Stay up-to-date with the latest color design trends using Matchcolor io. This guide will introduce you to techniques for incorporating trendy colors into your projects.",
+    "link": "<p>Stay up-to-date with the latest color design trends using Matchcolor io. This guide will introduce you to techniques for incorporating trendy colors into your projects.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "Effortless Color Matching for Beginners with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "If you're new to color matching, Matchcolor io has you covered. This guide will provide beginner-friendly tips and techniques for achieving great color combinations.",
+    "link": "<p>If you're new to color matching, Matchcolor io has you covered. This guide will provide beginner-friendly tips and techniques for achieving great color combinations.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "Creating Impactful Designs with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Learn how to create designs that leave a lasting impact with the help of Matchcolor io. This guide will show you how to choose colors that resonate with your audience.",
+    "link": "<p>Learn how to create designs that leave a lasting impact with the help of Matchcolor io. This guide will show you how to choose colors that resonate with your audience.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "Color Psychology and Branding with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Explore the relationship between color psychology and branding using Matchcolor io. This guide will help you make informed color choices for your brand identity.",
+    "link": "<p>Explore the relationship between color psychology and branding using Matchcolor io. This guide will help you make informed color choices for your brand identity.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "Efficient Color Matching Techniques for Professionals",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "For professionals seeking efficiency in color matching, Matchcolor io offers a range of techniques. This guide will walk you through the process of achieving precise color combinations in no time.",
+    "link": "<p>For professionals seeking efficiency in color matching, Matchcolor io offers a range of techniques. This guide will walk you through the process of achieving precise color combinations in no time.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "Customizing Color Palettes with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Unlock the full potential of Matchcolor io by customizing your color palettes. This guide will show you how to create personalized color schemes for your specific projects.",
+    "link": "<p>Unlock the full potential of Matchcolor io by customizing your color palettes. This guide will show you how to create personalized color schemes for your specific projects.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "The Art of Color Matching in Photography with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Elevate your photography with expert color matching techniques from Matchcolor io. This guide will show you how to enhance the visual impact of your images through precise color choices.",
+    "link": "<p>Elevate your photography with expert color matching techniques from Matchcolor io. This guide will show you how to enhance the visual impact of your images through precise color choices.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "Guide",
+    "title": "Maximizing Impact: Using Contrast in Color Design with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Discover the secrets of using contrast in color design to create maximum impact. Matchcolor io provides the tools and knowledge you need to make your designs truly stand out.",
+    "link": "<p>Discover the secrets of using contrast in color design to create maximum impact. Matchcolor io provides the tools and knowledge you need to make your designs truly stand out.</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "Guide",
+    "title": "Mastering Color Matching for Print Materials with Matchcolor io",
+    "image": "file:///android_asset/image/matchcolor_io.jpg",
+    "description": "Ensure your print materials look stunning with expert color matching advice from Matchcolor io. This guide will show you how to choose colors that reproduce beautifully in print.",
+    "link": "<p>Ensure your print materials look stunning with expert color matching advice from Matchcolor io. This guide will show you how to choose colors that reproduce beautifully in print.</p>"
+  }
+]
+}
