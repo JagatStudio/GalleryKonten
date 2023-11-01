@@ -1,0 +1,194 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Getting Started with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Embark on your journey with Uncrop AI and discover how easy it is to restore and enhance your photos. This guide will walk you through the basics and help you get started on transforming your cropped or imperfect images into stunning visual masterpieces. Learn about the intuitive interface, powerful features, and seamless photo restoration process that sets Uncrop AI apart from the rest. Whether you're a photography enthusiast or a professional, this guide will provide you with the knowledge and tools you need to make your photos shine.",
+    "link": "<p>Embark on your journey with Uncrop AI and discover how easy it is to restore and enhance your photos. This guide will walk you through the basics and help you get started on transforming your cropped or imperfect images into stunning visual masterpieces. Learn about the intuitive interface, powerful features, and seamless photo restoration process that sets Uncrop AI apart from the rest. Whether you're a photography enthusiast or a professional, this guide will provide you with the knowledge and tools you need to make your photos shine.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "Understanding AI-Powered Photo Restoration",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Dive deeper into Uncrop AI and explore the advanced technology behind its photo restoration capabilities. This guide will provide insights into the AI algorithms that make it possible to recover lost details and enhance your images. Learn about the science of image processing and how Uncrop AI leverages cutting-edge techniques to bring out the best in your photos. With Uncrop AI, you have the power to turn ordinary images into extraordinary visual experiences.",
+    "link": "<p>Dive deeper into Uncrop AI and explore the advanced technology behind its photo restoration capabilities. This guide will provide insights into the AI algorithms that make it possible to recover lost details and enhance your images. Learn about the science of image processing and how Uncrop AI leverages cutting-edge techniques to bring out the best in your photos. With Uncrop AI, you have the power to turn ordinary images into extraordinary visual experiences.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Restoring Vintage and Damaged Photos with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn how Uncrop AI can breathe new life into vintage and damaged photos. This guide will walk you through the process of reviving old memories and preserving cherished moments. Discover the tools and techniques that Uncrop AI offers to repair cracks, remove blemishes, and enhance faded colors. With Uncrop AI, you can ensure that your treasured photos stand the test of time.",
+    "link": "<p>Learn how Uncrop AI can breathe new life into vintage and damaged photos. This guide will walk you through the process of reviving old memories and preserving cherished moments. Discover the tools and techniques that Uncrop AI offers to repair cracks, remove blemishes, and enhance faded colors. With Uncrop AI, you can ensure that your treasured photos stand the test of time.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Enhancing Portraits with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Discover how Uncrop AI can take your portrait photography to the next level. This guide will show you how to enhance facial features, improve skin tones, and achieve professional-grade portrait results. Learn about the specialized tools and techniques that Uncrop AI provides for portrait retouching. With Uncrop AI, you can create stunning portraits that capture the true essence of your subjects.",
+    "link": "<p>Discover how Uncrop AI can take your portrait photography to the next level. This guide will show you how to enhance facial features, improve skin tones, and achieve professional-grade portrait results. Learn about the specialized tools and techniques that Uncrop AI provides for portrait retouching. With Uncrop AI, you can create stunning portraits that capture the true essence of your subjects.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "Transforming Landscapes with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn how to elevate your landscape photography with the power of Uncrop AI. This guide will walk you through the process of enhancing scenery, adjusting colors, and bringing out the natural beauty of landscapes. Discover the tools and techniques that Uncrop AI offers for landscape photography. With Uncrop AI, you can turn ordinary landscapes into breathtaking vistas.",
+    "link": "<p>Learn how to elevate your landscape photography with the power of Uncrop AI. This guide will walk you through the process of enhancing scenery, adjusting colors, and bringing out the natural beauty of landscapes. Discover the tools and techniques that Uncrop AI offers for landscape photography. With Uncrop AI, you can turn ordinary landscapes into breathtaking vistas.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "Mastering Color Correction with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Explore the art of color correction and discover how Uncrop AI can help you achieve perfect color balance in your photos. This guide will provide insights into adjusting tones, hues, and saturation levels to create visually stunning images. Learn about the precision tools that Uncrop AI offers for fine-tuning colors. With Uncrop AI, you have the ability to bring out the true brilliance of every photo.",
+    "link": "<p>Explore the art of color correction and discover how Uncrop AI can help you achieve perfect color balance in your photos. This guide will provide insights into adjusting tones, hues, and saturation levels to create visually stunning images. Learn about the precision tools that Uncrop AI offers for fine-tuning colors. With Uncrop AI, you have the ability to bring out the true brilliance of every photo.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "Creative Effects and Filters with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Unleash your creativity with Uncrop AI's range of artistic effects and filters. This guide will walk you through the process of adding unique visual elements to your photos. From vintage vibes to modern aesthetics, discover how Uncrop AI offers a diverse set of effects to suit your artistic vision. With Uncrop AI, you have the tools to transform your photos into captivating works of art.",
+    "link": "<p>Unleash your creativity with Uncrop AI's range of artistic effects and filters. This guide will walk you through the process of adding unique visual elements to your photos. From vintage vibes to modern aesthetics, discover how Uncrop AI offers a diverse set of effects to suit your artistic vision. With Uncrop AI, you have the tools to transform your photos into captivating works of art.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "Optimizing Travel Photos with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn how to enhance your travel photos and relive your adventures with Uncrop AI. This guide will show you how to adjust lighting, improve composition, and bring out the details in your travel snapshots. Discover the specialized tools that Uncrop AI offers for travel photography. With Uncrop AI, you can turn your travel memories into visual stories that captivate and inspire.",
+    "link": "<p>Learn how to enhance your travel photos and relive your adventures with Uncrop AI. This guide will show you how to adjust lighting, improve composition, and bring out the details in your travel snapshots. Discover the specialized tools that Uncrop AI offers for travel photography. With Uncrop AI, you can turn your travel memories into visual stories that captivate and inspire.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "Achieving Artistic Vision with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Explore the limitless creative possibilities with Uncrop AI and turn your artistic vision into reality. This guide will provide insights into using advanced tools to bring your unique ideas to life. Whether you're aiming for a specific style or exploring new artistic directions, Uncrop AI empowers you to unleash your creativity like never before. With Uncrop AI, the only limit is your imagination.",
+    "link": "<p>Explore the limitless creative possibilities with Uncrop AI and turn your artistic vision into reality. This guide will provide insights into using advanced tools to bring your unique ideas to life. Whether you're aiming for a specific style or exploring new artistic directions, Uncrop AI empowers you to unleash your creativity like never before. With Uncrop AI, the only limit is your imagination.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "Maximizing Quizzes for Engagement with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn techniques for optimizing your quizzes to maximize engagement with Uncrop AI. From question placement to interactive elements, this guide will show you how to create quizzes that captivate your audience. Discover the strategies and best practices that can make a significant difference in the level of engagement your quizzes achieve. With Uncrop AI, you have the tools at your disposal to create quizzes that leave a lasting impact on your audience.",
+    "link": "<p>Learn techniques for optimizing your quizzes to maximize engagement with Uncrop AI. From question placement to interactive elements, this guide will show you how to create quizzes that captivate your audience. Discover the strategies and best practices that can make a significant difference in the level of engagement your quizzes achieve. With Uncrop AI, you have the tools at your disposal to create quizzes that leave a lasting impact on your audience.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "Analyzing Quiz Performance with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Discover how to analyze the performance of your quizzes using Uncrop AI's powerful analytics tools. This guide will walk you through the process of extracting valuable insights from your quiz data. From understanding user behavior to identifying areas for improvement, Uncrop AI's analytics capabilities empower you to make data-driven decisions that enhance the effectiveness of your quizzes.",
+    "link": "<p>Discover how to analyze the performance of your quizzes using Uncrop AI's powerful analytics tools. This guide will walk you through the process of extracting valuable insights from your quiz data. From understanding user behavior to identifying areas for improvement, Uncrop AI's analytics capabilities empower you to make data-driven decisions that enhance the effectiveness of your quizzes.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "Collaborative Quiz Creation with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn how to collaborate with team members on quiz creation using Uncrop AI. This guide will show you how to work together seamlessly to produce engaging quizzes. Whether you're working on a project with colleagues or creating quizzes with fellow educators, Uncrop AI's collaborative features make the process efficient and effective. Discover how to leverage the power of teamwork to create quizzes that stand out.",
+    "link": "<p>Learn how to collaborate with team members on quiz creation using Uncrop AI. This guide will show you how to work together seamlessly to produce engaging quizzes. Whether you're working on a project with colleagues or creating quizzes with fellow educators, Uncrop AI's collaborative features make the process efficient and effective. Discover how to leverage the power of teamwork to create quizzes that stand out.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "Integrating Quizzes with Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Explore the various ways you can integrate quizzes created with Uncrop AI into your existing platforms. This guide will walk you through the process of seamless integration. Whether you want to embed quizzes in your website, share them on social media, or integrate them into your learning management system, Uncrop AI provides you with the tools and guidance you need to make the integration process smooth and hassle-free.",
+    "link": "<p>Explore the various ways you can integrate quizzes created with Uncrop AI into your existing platforms. This guide will walk you through the process of seamless integration. Whether you want to embed quizzes in your website, share them on social media, or integrate them into your learning management system, Uncrop AI provides you with the tools and guidance you need to make the integration process smooth and hassle-free.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "Using Uncrop AI for Educational Quizzes",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Discover how Uncrop AI can be a valuable tool for creating educational quizzes. This guide will provide insights and tips for making quizzes that enhance learning experiences. Whether you're an educator looking to create quizzes that reinforce learning objectives or a student seeking to enhance your study sessions, Uncrop AI offers a range of features designed to support educational endeavors.",
+    "link": "<p>Discover how Uncrop AI can be a valuable tool for creating educational quizzes. This guide will provide insights and tips for making quizzes that enhance learning experiences. Whether you're an educator looking to create quizzes that reinforce learning objectives or a student seeking to enhance your study sessions, Uncrop AI offers a range of features designed to support educational endeavors.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "Gamifying Learning with Quizzes in Uncrop AI",
+    "image": "file:///android_asset/image/uncrop_ai.jpg",
+    "description": "Learn how to leverage the gamification potential of quizzes in Uncrop AI to make learning more engaging and interactive. This guide will walk you through strategies for incorporating game-like elements into your quizzes. Whether you want to create quizzes with leaderboards, badges, or interactive challenges, Uncrop AI provides you with the tools to transform learning into a fun and rewarding experience.",
+    "link": "<p>Learn how to leverage the gamification potential of quizzes in Uncrop AI to make learning more engaging and interactive. This guide will walk you through strategies for incorporating game-like elements into your quizzes. Whether you want to create quizzes with leaderboards, badges, or interactive challenges, Uncrop AI provides you with the tools to transform learning into a fun and rewarding experience.</p>"
+  }
+]
+}
