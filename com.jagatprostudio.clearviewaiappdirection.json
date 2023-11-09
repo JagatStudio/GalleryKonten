@@ -1,0 +1,210 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Getting Started with ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Embark on your journey with ClearView and learn the essentials of using this powerful platform. This guide will walk you through creating an account, navigating the interface, and accessing a wide range of visual enhancement tools. Get ready to transform your images with ClearView.",
+    "link": "<p>Embark on your journey with ClearView and learn the essentials of using this powerful platform. This guide will walk you through creating an account, navigating the interface, and accessing a wide range of visual enhancement tools. Get ready to transform your images with ClearView.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "Exploring ClearView Filters and Effects",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Dive into the world of ClearView filters and effects to add stunning visual enhancements to your images. This guide will show you how to apply various filters, adjust settings, and unleash your creativity. Discover how ClearView can take your photos to the next level.",
+    "link": "<p>Dive into the world of ClearView filters and effects to add stunning visual enhancements to your images. This guide will show you how to apply various filters, adjust settings, and unleash your creativity. Discover how ClearView can take your photos to the next level.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Mastering Portrait Enhancement with ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Learn how ClearView can be a game-changer for portrait photographers. This guide will provide insights into using advanced portrait enhancement features, retouching tools, and achieving professional-grade results. Elevate your portrait photography with ClearView.",
+    "link": "<p>Learn how ClearView can be a game-changer for portrait photographers. This guide will provide insights into using advanced portrait enhancement features, retouching tools, and achieving professional-grade results. Elevate your portrait photography with ClearView.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Enhancing Landscapes with ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Discover how ClearView can bring out the beauty in your landscape photos. This guide will walk you through utilizing landscape enhancement features, adjusting colors, and creating breathtaking scenic images. With ClearView, your landscapes will captivate viewers.",
+    "link": "<p>Discover how ClearView can bring out the beauty in your landscape photos. This guide will walk you through utilizing landscape enhancement features, adjusting colors, and creating breathtaking scenic images. With ClearView, your landscapes will captivate viewers.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "Achieving Artistic Edits with ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Unleash your inner artist with ClearView's artistic editing capabilities. This guide will provide insights into creating unique and visually stunning edits, from abstract compositions to painterly effects. Explore the artistic side of photography with ClearView.",
+    "link": "<p>Unleash your inner artist with ClearView's artistic editing capabilities. This guide will provide insights into creating unique and visually stunning edits, from abstract compositions to painterly effects. Explore the artistic side of photography with ClearView.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "Using ClearView for Professional Retouching",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Elevate your retouching skills with ClearView's professional-grade tools. This guide will walk you through techniques for skin retouching, object removal, and achieving flawless results. With ClearView, your photos will exude professionalism.",
+    "link": "<p>Elevate your retouching skills with ClearView's professional-grade tools. This guide will walk you through techniques for skin retouching, object removal, and achieving flawless results. With ClearView, your photos will exude professionalism.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "Advanced Techniques in ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Take your ClearView skills to the next level with advanced techniques and features. This guide will provide insights into using layers, masks, and other pro-level tools for precise and detailed edits. Unlock the full potential of ClearView.",
+    "link": "<p>Take your ClearView skills to the next level with advanced techniques and features. This guide will provide insights into using layers, masks, and other pro-level tools for precise and detailed edits. Unlock the full potential of ClearView.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "Creating Stunning Composites with ClearView",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Explore the world of photo compositing with ClearView's powerful features. This guide will walk you through the process of combining multiple images into seamless and captivating compositions. Elevate your photography with ClearView's compositing tools.",
+    "link": "<p>Explore the world of photo compositing with ClearView's powerful features. This guide will walk you through the process of combining multiple images into seamless and captivating compositions. Elevate your photography with ClearView's compositing tools.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "Mastering ClearView's Color Correction",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Learn how to perfect color tones and balance in your photos with ClearView's advanced color correction tools. This guide will provide insights into adjusting hues, saturation, and achieving the desired color effects. Transform your images with precise color correction in ClearView.",
+    "link": "<p>Learn how to perfect color tones and balance in your photos with ClearView's advanced color correction tools. This guide will provide insights into adjusting hues, saturation, and achieving the desired color effects. Transform your images with precise color correction in ClearView.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "ClearView: Mobile Editing Guide",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Discover how to edit your photos on the go with ClearView's mobile app. This guide will walk you through accessing editing features, applying filters, and achieving stunning results right from your mobile device. Unleash your creativity anytime, anywhere with ClearView.",
+    "link": "<p>Discover how to edit your photos on the go with ClearView's mobile app. This guide will walk you through accessing editing features, applying filters, and achieving stunning results right from your mobile device. Unleash your creativity anytime, anywhere with ClearView.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "ClearView: Tips and Tricks",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Unlock the full potential of ClearView with these valuable tips and tricks. This guide will provide insights into hidden features, efficient navigation, and maximizing the benefits of ClearView. Elevate your photo editing experience with ClearView: Tips and Tricks.",
+    "link": "<p>Unlock the full potential of ClearView with these valuable tips and tricks. This guide will provide insights into hidden features, efficient navigation, and maximizing the benefits of ClearView. Elevate your photo editing experience with ClearView: Tips and Tricks.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "ClearView for Social Media",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Optimize your photos for social media platforms with ClearView's specialized features. This guide will walk you through resizing, formatting, and enhancing your images for optimal impact on social networks. Elevate your social media presence with ClearView.",
+    "link": "<p>Optimize your photos for social media platforms with ClearView's specialized features. This guide will walk you through resizing, formatting, and enhancing your images for optimal impact on social networks. Elevate your social media presence with ClearView.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "ClearView: Black & White Photography",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Discover the art of black and white photography with ClearView's dedicated features. This guide will provide insights into converting color images to striking black and white compositions. Explore the timeless beauty of monochrome with ClearView.",
+    "link": "<p>Discover the art of black and white photography with ClearView's dedicated features. This guide will provide insights into converting color images to striking black and white compositions. Explore the timeless beauty of monochrome with ClearView.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "ClearView: Mastering Text and Graphics",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Learn how to add text, graphics, and overlays to your images with ClearView's intuitive tools. This guide will walk you through the process of creating visually engaging designs with text and graphics elements. Elevate your visual storytelling with ClearView.",
+    "link": "<p>Learn how to add text, graphics, and overlays to your images with ClearView's intuitive tools. This guide will walk you through the process of creating visually engaging designs with text and graphics elements. Elevate your visual storytelling with ClearView.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "ClearView for Product Photography",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Optimize your product photography with ClearView's specialized features. This guide will provide insights into enhancing product images, adjusting colors, and creating captivating visuals for e-commerce and marketing. Elevate your product presentation with ClearView.",
+    "link": "<p>Optimize your product photography with ClearView's specialized features. This guide will provide insights into enhancing product images, adjusting colors, and creating captivating visuals for e-commerce and marketing. Elevate your product presentation with ClearView.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "Guide",
+    "title": "ClearView: Architectural Photography",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Discover how ClearView can enhance architectural photography with specialized tools. This guide will walk you through techniques for adjusting perspectives, correcting distortions, and creating visually appealing architectural images. Elevate your architectural photography with ClearView.",
+    "link": "<p>Discover how ClearView can enhance architectural photography with specialized tools. This guide will walk you through techniques for adjusting perspectives, correcting distortions, and creating visually appealing architectural images. Elevate your architectural photography with ClearView.</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "Guide",
+    "title": "ClearView: Nature and Wildlife Photography",
+    "image": "file:///android_asset/image/clearview.jpg",
+    "description": "Optimize your nature and wildlife photos with ClearView's specialized features. This guide will provide insights into enhancing natural colors, refining details, and creating captivating visuals for nature enthusiasts and photographers. Elevate your nature photography with ClearView.",
+    "link": "<p>Optimize your nature and wildlife photos with ClearView's specialized features. This guide will provide insights into enhancing natural colors, refining details, and creating captivating visuals for nature enthusiasts and photographers. Elevate your nature photography with ClearView.</p>"
+  }
+]
+}
