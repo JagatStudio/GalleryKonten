@@ -1,0 +1,226 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Dopple AI: Redefining Digital Avatars",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Explore the future of digital avatars with Dopple AI. Discover how this groundbreaking technology is transforming industries from entertainment to simulations.",
+    "link": "<p>Explore the future of digital avatars with Dopple AI. Discover how this groundbreaking technology is transforming industries from entertainment to simulations.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "The Science of Dopple AI: Avatar Generation Unveiled",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Delve into the science behind Dopple AI's avatar generation. Learn how it creates realistic digital avatars and reshapes industries like gaming and virtual meetings.",
+    "link": "<p>Delve into the science behind Dopple AI's avatar generation. Learn how it creates realistic digital avatars and reshapes industries like gaming and virtual meetings.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Dopple AI: The Future of Visual Interaction",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Discover how Dopple AI is revolutionizing visual interaction. See the potential applications of lifelike digital avatars in education, entertainment, and more.",
+    "link": "<p>Discover how Dopple AI is revolutionizing visual interaction. See the potential applications of lifelike digital avatars in education, entertainment, and more.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Creating Personalized Avatars with Dopple AI",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Learn how to create personalized avatars with Dopple AI. Customize digital replicas for various applications, from gaming to virtual meetings.",
+    "link": "<p>Learn how to create personalized avatars with Dopple AI. Customize digital replicas for various applications, from gaming to virtual meetings.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "Dopple AI in Gaming: Enhancing User Experience",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Explore the impact of Dopple AI in gaming. See how realistic avatars elevate user experience and immersion in virtual worlds.",
+    "link": "<p>Explore the impact of Dopple AI in gaming. See how realistic avatars elevate user experience and immersion in virtual worlds.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "Virtual Meetings Redefined: Dopple AI's Contribution",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Discover how Dopple AI is reshaping virtual meetings. Learn how lifelike avatars enhance communication and collaboration in online environments.",
+    "link": "<p>Discover how Dopple AI is reshaping virtual meetings. Learn how lifelike avatars enhance communication and collaboration in online environments.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "Education Elevated: Dopple AI in Learning Environments",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "See how Dopple AI is revolutionizing education. Explore the use of lifelike avatars in enhancing engagement and interactivity in virtual classrooms.",
+    "link": "<p>See how Dopple AI is revolutionizing education. Explore the use of lifelike avatars in enhancing engagement and interactivity in virtual classrooms.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "Dopple AI: Pioneering the Future of Digital Representation",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Learn how Dopple AI is at the forefront of digital representation. Explore the potential applications of lifelike avatars in various industries.",
+    "link": "<p>Learn how Dopple AI is at the forefront of digital representation. Explore the potential applications of lifelike avatars in various industries.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "The Art of Personal Expression: Dopple AI's Creative Potential",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Unleash your creativity with Dopple AI. Discover how to use lifelike avatars as a medium for personal expression and storytelling.",
+    "link": "<p>Unleash your creativity with Dopple AI. Discover how to use lifelike avatars as a medium for personal expression and storytelling.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "Dopple AI: The Intersection of Technology and Imagination",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Explore the synergy of technology and imagination with Dopple AI. See how lifelike avatars are pushing the boundaries of what's possible.",
+    "link": "<p>Explore the synergy of technology and imagination with Dopple AI. See how lifelike avatars are pushing the boundaries of what's possible.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "Humanizing Technology: Dopple AI's Impact on User Interaction",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Discover how Dopple AI is humanizing technology. Learn how lifelike avatars are enhancing user interaction and engagement across digital platforms.",
+    "link": "<p>Discover how Dopple AI is humanizing technology. Learn how lifelike avatars are enhancing user interaction and engagement across digital platforms.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "Dopple AI: Unlocking the Potential of Virtual Worlds",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Unlock the potential of virtual worlds with Dopple AI. Explore how lifelike avatars are shaping immersive experiences and expanding creative possibilities.",
+    "link": "<p>Unlock the potential of virtual worlds with Dopple AI. Explore how lifelike avatars are shaping immersive experiences and expanding creative possibilities.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "Dopple AI and Beyond: The Future of Digital Interaction",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Look beyond the horizon of digital interaction with Dopple AI. Discover the evolving landscape of lifelike avatars and their impact on various industries.",
+    "link": "<p>Look beyond the horizon of digital interaction with Dopple AI. Discover the evolving landscape of lifelike avatars and their impact on various industries.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "The Evolution of Avatars: Dopple AI's Role in Redefining Representation",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Witness the evolution of avatars with Dopple AI. Learn how lifelike representations are changing the way we interact and communicate in the digital realm.",
+    "link": "<p>Witness the evolution of avatars with Dopple AI. Learn how lifelike representations are changing the way we interact and communicate in the digital realm.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "Dopple AI: Bridging Gaps in Virtual Communication",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Experience the future of virtual communication with Dopple AI. Explore how lifelike avatars are closing the distance in online interactions.",
+    "link": "<p>Experience the future of virtual communication with Dopple AI. Explore how lifelike avatars are closing the distance in online interactions.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "Guide",
+    "title": "Empowering Creators: Dopple AI's Contribution to Digital Artistry",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Empower your creative journey with Dopple AI. Discover how lifelike avatars are becoming essential tools for digital artists and content creators.",
+    "link": "<p>Empower your creative journey with Dopple AI. Discover how lifelike avatars are becoming essential tools for digital artists and content creators.</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "Guide",
+    "title": "Dopple AI: Shaping the Future of Entertainment",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Step into the future of entertainment with Dopple AI. Explore how lifelike avatars are enhancing storytelling, gaming, and immersive experiences.",
+    "link": "<p>Step into the future of entertainment with Dopple AI. Explore how lifelike avatars are enhancing storytelling, gaming, and immersive experiences.</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "Guide",
+    "title": "The Human Touch in the Digital Age: Dopple AI's Influence on Interaction",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Rediscover the human touch in the digital age with Dopple AI. Learn how lifelike avatars are redefining the way we connect and engage online.",
+    "link": "<p>Rediscover the human touch in the digital age with Dopple AI. Learn how lifelike avatars are redefining the way we connect and engage online.</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "Guide",
+    "title": "Dopple AI: Opening New Dimensions in Virtual Experiences",
+    "image": "file:///android_asset/image/dopple_icon.jpg",
+    "description": "Embark on a journey of new dimensions with Dopple AI. Explore how lifelike avatars are pushing boundaries and creating transformative virtual experiences.",
+    "link": "<p>Embark on a journey of new dimensions with Dopple AI. Explore how lifelike avatars are pushing boundaries and creating transformative virtual experiences.</p>"
+  }
+]
+}
