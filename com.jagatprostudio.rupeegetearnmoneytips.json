@@ -1,0 +1,242 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 5,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_custom_activity_maintenance" : false,
+	  "rate_dialog_count" : 99999
+    },
+
+    "ad_network": [
+      {
+        "name": "off",
+        "value": 1,
+		"min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "off",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "app_settings" : {
+
+    "navigation_mode" : "tab_layout_bottom",
+
+    "recent_fragment_list_view_mode" : "grid",
+    "favorite_fragment_list_view_mode" : "grid",
+    "category_fragment_list_view_mode" : "grid",
+    "category_activity_list_view_mode" : "grid",
+    "hide_short_desc_category_activity_list" : false,
+    "item_interval_native_ad_list": 4,
+
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "JagatPro Studio App Info",
+      "image": "https://play-lh.googleusercontent.com/Ub8YtVxViiE43D-pN0QPE_HXQ3Dk0DWMNBavQJ9lEPEXXjMbF2MGBm7iq-0PiiHqLA=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.jagatprostudio.jagatproappinfo&hl=id-ID"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+  {
+    "id": 1,
+    "name_category": "Guide",
+    "title": "Getting Started with RupeeGet",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Embark on your journey with RupeeGet. This guide provides step-by-step instructions on setting up your account, exploring earning opportunities, and maximizing your earnings through the platform.",
+    "link": "<p>Embark on your journey with RupeeGet. This guide provides step-by-step instructions on setting up your account, exploring earning opportunities, and maximizing your earnings through the platform.</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "Guide",
+    "title": "Earning Strategies on RupeeGet",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Unlock the secrets to successful earning on RupeeGet. This guide explores various strategies and tips to optimize your earnings, covering tasks, surveys, referrals, and other lucrative opportunities.",
+    "link": "<p>Unlock the secrets to successful earning on RupeeGet. This guide explores various strategies and tips to optimize your earnings, covering tasks, surveys, referrals, and other lucrative opportunities.</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "Guide",
+    "title": "Navigating the RupeeGet Dashboard",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Effortlessly explore the RupeeGet dashboard. This guide provides insights into the user interface, available tasks, and features that make navigating the platform a seamless and rewarding experience.",
+    "link": "<p>Effortlessly explore the RupeeGet dashboard. This guide provides insights into the user interface, available tasks, and features that make navigating the platform a seamless and rewarding experience.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "Guide",
+    "title": "Referral Program Mastery on RupeeGet",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Maximize your earnings through referrals. This guide delves into the RupeeGet referral program, offering tips on how to build a referral network, boost your earnings, and climb the leaderboards.",
+    "link": "<p>Maximize your earnings through referrals. This guide delves into the RupeeGet referral program, offering tips on how to build a referral network, boost your earnings, and climb the leaderboards.</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "Guide",
+    "title": "RupeeGet Task Opportunities",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Explore the variety of tasks on RupeeGet. This guide provides an overview of task categories, tips for task completion, and strategies to efficiently tackle different types of tasks on the platform.",
+    "link": "<p>Explore the variety of tasks on RupeeGet. This guide provides an overview of task categories, tips for task completion, and strategies to efficiently tackle different types of tasks on the platform.</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "Guide",
+    "title": "RupeeGet Survey Success",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Master the art of earning through surveys. This guide offers insights into participating in surveys on RupeeGet, maximizing your survey earnings, and qualifying for high-paying opportunities.",
+    "link": "<p>Master the art of earning through surveys. This guide offers insights into participating in surveys on RupeeGet, maximizing your survey earnings, and qualifying for high-paying opportunities.</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "Guide",
+    "title": "RupeeGet and Affiliate Marketing",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Explore affiliate marketing with RupeeGet. This guide covers how you can leverage affiliate marketing to boost your earnings, the available affiliate programs, and strategies for success.",
+    "link": "<p>Explore affiliate marketing with RupeeGet. This guide covers how you can leverage affiliate marketing to boost your earnings, the available affiliate programs, and strategies for success.</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "Guide",
+    "title": "RupeeGet Rewards Catalog",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Discover the rewards waiting for you on RupeeGet. This guide showcases the diverse rewards catalog, from cash payments and gift cards to exclusive merchandise, allowing you to choose rewards that suit your preferences.",
+    "link": "<p>Discover the rewards waiting for you on RupeeGet. This guide showcases the diverse rewards catalog, from cash payments and gift cards to exclusive merchandise, allowing you to choose rewards that suit your preferences.</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "Guide",
+    "title": "RupeeGet Leaderboards and Competitions",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Compete and rise on the RupeeGet leaderboards. This guide explains how leaderboards and competitions work, providing tips on how to earn more, climb the ranks, and enjoy additional rewards.",
+    "link": "<p>Compete and rise on the RupeeGet leaderboards. This guide explains how leaderboards and competitions work, providing tips on how to earn more, climb the ranks, and enjoy additional rewards.</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "Guide",
+    "title": "RupeeGet Community and Forums",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Connect with the RupeeGet community. This guide explores the community and forums on RupeeGet, providing insights into discussions, tips sharing, and building connections with fellow earners.",
+    "link": "<p>Connect with the RupeeGet community. This guide explores the community and forums on RupeeGet, providing insights into discussions, tips sharing, and building connections with fellow earners.</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "Guide",
+    "title": "RupeeGet App Features and Mobile Earning",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Earn on the go with the RupeeGet mobile app. This guide highlights the features of the RupeeGet app, providing insights into mobile earning opportunities and how to make the most of the app's capabilities.",
+    "link": "<p>Earn on the go with the RupeeGet mobile app. This guide highlights the features of the RupeeGet app, providing insights into mobile earning opportunities and how to make the most of the app's capabilities.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "Guide",
+    "title": "RupeeGet Earning Challenges",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Take on earning challenges with RupeeGet. This guide explores the various earning challenges available on the platform, offering tips on how to participate, succeed, and enjoy additional rewards.",
+    "link": "<p>Take on earning challenges with RupeeGet. This guide explores the various earning challenges available on the platform, offering tips on how to participate, succeed, and enjoy additional rewards.</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "Guide",
+    "title": "RupeeGet Success Stories",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Discover success stories on RupeeGet. This guide showcases real-life experiences and achievements of users on the platform, providing inspiration and insights into how RupeeGet can positively impact your earning journey.",
+    "link": "<p>Discover success stories on RupeeGet. This guide showcases real-life experiences and achievements of users on the platform, providing inspiration and insights into how RupeeGet can positively impact your earning journey.</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "Guide",
+    "title": "RupeeGet Tips for Effective Earning",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Enhance your earning skills on RupeeGet. This guide offers practical tips for effective earning, helping you maximize your efforts, explore new opportunities, and achieve your financial goals.",
+    "link": "<p>Enhance your earning skills on RupeeGet. This guide offers practical tips for effective earning, helping you maximize your efforts, explore new opportunities, and achieve your financial goals.</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "Guide",
+    "title": "RupeeGet User Feedback and Improvements",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Contribute to the RupeeGet community. This guide explores how users can provide feedback, suggestions, and actively participate in the continuous improvement of RupeeGet for a better overall earning experience.",
+    "link": "<p>Contribute to the RupeeGet community. This guide explores how users can provide feedback, suggestions, and actively participate in the continuous improvement of RupeeGet for a better overall earning experience.</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "Guide",
+    "title": "RupeeGet Mobile App Features",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Stay connected on the go. This guide highlights the features of the RupeeGet mobile app, providing insights into how the app enhances your earning experience, even when you're on the move.",
+    "link": "<p>Stay connected on the go. This guide highlights the features of the RupeeGet mobile app, providing insights into how the app enhances your earning experience, even when you're on the move.</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "Guide",
+    "title": "RupeeGet Earning Dos and Don'ts",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Navigate the earning landscape with confidence. This guide outlines dos and don'ts for effective earning on RupeeGet, ensuring a positive and productive experience for all users.",
+    "link": "<p>Navigate the earning landscape with confidence. This guide outlines dos and don'ts for effective earning on RupeeGet, ensuring a positive and productive experience for all users.</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "Guide",
+    "title": "RupeeGet Earning Etiquette",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Master the art of earning etiquette. This guide provides insights into the etiquettes and best practices for professional earning on RupeeGet, fostering positive connections and interactions.",
+    "link": "<p>Master the art of earning etiquette. This guide provides insights into the etiquettes and best practices for professional earning on RupeeGet, fostering positive connections and interactions.</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "Guide",
+    "title": "RupeeGet Earning for Introverts",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Navigate earning as an introvert. This guide offers strategies and tips for introverted individuals to thrive in the professional earning space on RupeeGet, making meaningful connections at their own pace.",
+    "link": "<p>Navigate earning as an introvert. This guide offers strategies and tips for introverted individuals to thrive in the professional earning space on RupeeGet, making meaningful connections at their own pace.</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "Guide",
+    "title": "RupeeGet Earning Challenges and Solutions",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Overcome common earning challenges. This guide addresses challenges users may face on RupeeGet and provides practical solutions to enhance their earning experience and achieve their financial goals.",
+    "link": "<p>Overcome common earning challenges. This guide addresses challenges users may face on RupeeGet and provides practical solutions to enhance their earning experience and achieve their financial goals.</p>"
+  },
+  {
+    "id": 21,
+    "name_category": "Guide",
+    "title": "Revolutionizing Earning with RupeeGet",
+    "image": "file:///android_asset/image/rupeeget.jpg",
+    "description": "Experience a new era of professional earning. This guide explores how RupeeGet is revolutionizing the landscape of professional connections, offering innovative features and opportunities for individuals seeking financial success.",
+    "link": "<p>Experience a new era of professional earning. This guide explores how RupeeGet is revolutionizing the landscape of professional connections, offering innovative features and opportunities for individuals seeking financial success.</p>"
+  }
+]
+}
