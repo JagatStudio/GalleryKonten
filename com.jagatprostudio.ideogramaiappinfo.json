@@ -6,19 +6,19 @@
       "switch_ads_type": "only_banner",
       "make_app_crash_when_app_not_live_at_play_store": false,
       "enable_custom_activity_maintenance" : false,
-	"rate_dialog_count" : 99999
+      "rate_dialog_count" : 99999
     },
 
     "ad_network": [
       {
-        "name": "off",
+        "name": "admob",
         "value": 1,
-		"min_time": 120,
+	"min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "835152918394591",
-        "banner": "835152918394591_835162328393650",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4904190876040559~1562626009",
+        "banner": "ca-app-pub-4904190876040559/2856731655",
         "mrec": "off",
-        "inter": "835152918394591_835162401726976",
+        "inter": "ca-app-pub-4904190876040559/5750488309",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
