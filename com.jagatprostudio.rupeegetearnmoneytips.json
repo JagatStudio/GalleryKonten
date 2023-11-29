@@ -12,13 +12,25 @@
     "ad_network": [
       {
         "name": "fan",
-        "value": 1,
-		"min_time": 120,
+        "value": 2,
+	"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "356200827083719",
         "banner": "356200827083719_356201273750341",
         "mrec": "off",
         "inter": "356200827083719_356201343750334",
+        "native_ad": "-",
+        "open_ad": "off",
+        "splash_ad": false
+      },
+	{
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-4904190876040559~4178789282",
+        "banner": "ca-app-pub-4904190876040559/7806526189",
+        "mrec": "off",
+        "inter": "ca-app-pub-4904190876040559/6409684039",
         "native_ad": "-",
         "open_ad": "off",
         "splash_ad": false
