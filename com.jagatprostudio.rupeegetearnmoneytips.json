@@ -11,7 +11,7 @@
 
     "ad_network": [
       {
-        "name": "fan",
+        "name": "off",
         "value": 2,
 	"min_time": 120,
 
@@ -24,7 +24,7 @@
         "splash_ad": false
       },
 	{
-        "name": "admob",
+        "name": "off",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-4904190876040559~4178789282",
